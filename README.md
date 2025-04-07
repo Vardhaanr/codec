@@ -1,6 +1,6 @@
 Internship Projects Using AI:
 
-The two projects showcased in this repository were done during my month-long AI internship. They demonstrate the application of machine learning and deep learning with Python.  
+The two projects showcased in this repository were done during my AI internship. They demonstrate the application of machine learning and deep learning with Python.  
 
 1. Recognition of Handwritten Digits:  
 
